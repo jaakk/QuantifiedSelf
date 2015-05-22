@@ -31,6 +31,9 @@ Sensors
 #### Posture
 * [Lumo Lift](http://www.lumobodytech.com/)
 
+#### Camera (computer vision)
+* [Realeyes](http://www.realeyesit.com/)
+
 #### Productivity
 
 
