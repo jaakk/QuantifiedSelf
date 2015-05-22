@@ -43,5 +43,6 @@ Medical Data Formats
 
 Sample Datasets
 -----------
-
+* [Sample medical record fields](http://healthdesignchallenge.com/files/sample-challenge-record.txt) (Health Design Challenge: The Patient Record)
+* [Sample medical record (extra fields)](http://healthdesignchallenge.com/files/more-fields.txt) (Health Design Challenge: The Patient Record)
 
