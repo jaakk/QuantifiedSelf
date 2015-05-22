@@ -33,6 +33,8 @@ Sensors
 
 #### Camera (computer vision)
 * [Realeyes](http://www.realeyesit.com/)
+* [Kairos](https://www.kairos.com): cloud-based facial detection.
+* [ReKognition API](https://rekognition.com/): Integrated visual recognition solution based in the Cloud.
 
 #### Productivity
 
