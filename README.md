@@ -11,6 +11,7 @@ Sensors
 
 * [Moves](http://www.moves-app.com/): Activity diary mobile app.
 * [Fitbit](http://www.fitbit.com/)
+* [Apple Watch](https://www.apple.com/watch/)
 
 #### Sleep
 
@@ -26,7 +27,8 @@ Sensors
 
 #### Brain Wave
 
-#### Genetic
+#### Genetic Analysis
+* [23andMe](https://www.23andme.com/en-eu/): Genetic health and ancestry analysis (inhereted medical conditions, genetic risk factors, drug response, traits.
 
 #### Posture
 * [Lumo Lift](http://www.lumobodytech.com/)
@@ -38,6 +40,10 @@ Sensors
 
 #### Productivity
 
+Data Aggregators
+-----------
+* [Microsoft HealthVault](https://www.healthvault.com): A place for people to gather, store, use, and share health information online.
+* [Tactio Health](http://www.tactiosoft.com/): QS and medical device data aggregator.
 
 Medical Data Formats
 -----------
