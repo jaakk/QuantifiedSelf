@@ -1,7 +1,6 @@
 QuantifiedSelf
 ===============
-
-Corwdsourced collection of various quantified self data formats, resources, tools.
+Corwdsourced collection of various quantified self, health, medical and genetic data formats, resources and tools.
 
 
 Sensors
@@ -12,6 +11,17 @@ Sensors
 * [Moves](http://www.moves-app.com/): Activity diary mobile app.
 * [Fitbit](http://www.fitbit.com/)
 * [Apple Watch](https://www.apple.com/watch/)
+* [BodyMedia Link](http://www.bodymedia.com/Support-Help/BodyMedia-FIT-BW)
+* [Fitbit Surge](https://www.fitbit.com/ca/surge)
+* [Fitbit Charge](https://www.fitbit.com/ca/charge)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* 
 
 #### Sleep
 
