@@ -14,24 +14,24 @@ Sensors
 * [BodyMedia Link](http://www.bodymedia.com/Support-Help/BodyMedia-FIT-BW)
 * [Fitbit Surge](https://www.fitbit.com/ca/surge)
 * [Fitbit Charge](https://www.fitbit.com/ca/charge)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* 
+* [Fitbit Flex](http://www.fitbit.com/ca/flex)
+* [Fitbit One](http://www.fitbit.com/ca/one)
+* [Fitbit Zip](http://www.fitbit.com/ca/zip)
+* [Withings Activite](http://www2.withings.com/us/en/products/activite/)
+* [Firebug Orb](https://www.fitbug.com/g/orb)
 
 #### Sleep
 
 #### Mood
 
 #### Vital Signs
+* [iHealth Wireless Pulse Oximeter](http://www.ihealthlabs.com/fitness-devices/wireless-pulse-oximeter/)
 
 #### Weight
+* [Withings Smart Body Analyzer](http://www2.withings.com/us/en/products/smart-body-analyzer/)
 
 #### Blood Tests
+* [iHealth Glucometer](http://www.ihealthlabs.com/glucometer/)
 
 #### Activity Monitors
 
