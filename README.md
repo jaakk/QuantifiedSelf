@@ -66,4 +66,5 @@ Sample Datasets
 -----------
 * [Sample medical record fields](http://healthdesignchallenge.com/files/sample-challenge-record.txt) (Health Design Challenge: The Patient Record)
 * [Sample medical record (extra fields)](http://healthdesignchallenge.com/files/more-fields.txt) (Health Design Challenge: The Patient Record)
+* [Steven Keating health data](http://stevenkeating.info/main.html): Steven Keating has made his medical data, including the video of his 10-hour surgery, dozens of medical images, genetic sequencing data and 300 pages of clinical documents, open for research. More information in this [NY Times article](http://www.nytimes.com/2015/04/01/technology/the-healing-power-of-your-own-medical-data.html?_r=0)
 
