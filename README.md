@@ -50,10 +50,17 @@ Sensors
 
 #### Productivity
 
+Lab Tests
+-----------
+* [Theranos](https://theranos.com/): Reinvented blood test.
+
 Data Aggregators
 -----------
 * [Microsoft HealthVault](https://www.healthvault.com): A place for people to gather, store, use, and share health information online.
+* [healthbank](https://www.healthbank.ch/): healthbank is a free, secure, citizen-owned, global health data transaction platform for research and safe data sharing and storage.
 * [Tactio Health](http://www.tactiosoft.com/): QS and medical device data aggregator.
+* [Apple ResearchKit](http://researchkit.github.io/)
+* [Apple HealthKit](https://developer.apple.com/healthkit/)
 
 Medical Data Formats
 -----------
