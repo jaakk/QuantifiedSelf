@@ -35,7 +35,9 @@ Sensors
 
 #### Activity Monitors
 
-#### Brain Wave
+#### Brain Wave (Brain Computer Interfaces)
+* [NeuroSky MindWave](http://store.neurosky.com/products/mindwave-1)
+* [OpenBCI](http://www.openbci.com/)
 
 #### Genetic Analysis
 * [23andMe](https://www.23andme.com/en-eu/): Genetic health and ancestry analysis (inhereted medical conditions, genetic risk factors, drug response, traits.
